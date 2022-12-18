@@ -1,4 +1,7 @@
-# Project-006 : Calculator (JS-02)
+# IOS Calculator
+
+## Page
+https://akar1660.github.io/Javascript---IOSCalculator/
 
 ## Description
 Project aims to create a calculator.
